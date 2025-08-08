@@ -1,1 +1,1 @@
-Level 0 - straightfoward its just sshing to overthewire.labs.org with the user and password being bandit0 ssh on port 2220 ssh bandit0@bandit.overthewire.labs.org -p 2220 image
+## **Level 0** - straightfoward its just sshing to overthewire.labs.org with the user and password being bandit0 ssh on port 2220 ``ssh bandit0@bandit.overthewire.labs.org -p 2220`` <img width="1102" height="506" alt="image" src="https://github.com/user-attachments/assets/ce799705-45c3-415b-af82-663118d897b3" />
